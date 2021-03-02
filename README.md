@@ -33,6 +33,9 @@
 
 <img class="project-pic" src="http://pa1.narvii.com/6972/730d721aea55e900a448731815cbe434f993e86fr1-320-240_00.gif" style="width: 250px;" />
 <a href="https://nsi-team.github.io/Marrant/">Marrant</a>
+
+<img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 250px;" />
+<a href="https://nsi-team.github.io/Chat/">Chat</a>
 <p></p>
     <a href="https://nsi-team.github.io/Sondage/">SONDAGE !</a>
     <p></p>
