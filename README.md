@@ -23,9 +23,11 @@
       <p> irl <input type="checkbox"/></p>
 <p></p>
 <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
+<p></p>
 <a href="https://maevebestdev.github.io/PixelArt/">pixel art</a>
 
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
+<p></p>
 <a href="https://maevebestdev.github.io/Anime/">anime</a>
 
 <img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 250px;" />
