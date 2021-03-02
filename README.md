@@ -33,7 +33,7 @@
 <p></p>
     <a href="https://nsi-team.github.io/Sondage/">SONDAGE !</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <a href="https://nsi-team.github.io/About_us/">About us</a>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
     </body>
