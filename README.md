@@ -29,6 +29,7 @@
 <a href="https://maevebestdev.github.io/Anime/">anime</a>
 
 <img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 250px;" />
+<p></p>
 <a href="https://maevebestdev.github.io/Jeux_Videos/">Jeux videos</a>
 <p></p>
     <a href="https://nsi-team.github.io/Sondage/">SONDAGE !</a>
