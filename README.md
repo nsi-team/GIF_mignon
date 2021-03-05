@@ -10,7 +10,7 @@
     <p></p>
     <form role="search">
   <div>
-    <input type="search" id="maRecherche" name="q"
+    <input type="search" onsearch="RedirectionJavascript()"
      placeholder="Rechercher sur le site…"
      aria-label="Rechercher parmi le contenu du site">
     <button>Rechercher</button>
@@ -43,5 +43,6 @@
     <a href="https://nsi-team.github.io/Help/">Help</a>
     <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
     </body>
+      <script src="script.js"></script>
 </html>
 <p></p>
