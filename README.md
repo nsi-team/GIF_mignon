@@ -8,13 +8,9 @@
     <h1>Bienvenue sur GIF Mignon !</h1>
     <p><strong>Ici, vous pouvez REGARDER plein de GIF en tout genre.</strong></p>
     <p></p>
-    <form role="search">
-  <div>
-    <input type="search" onsearch="RedirectionJavascript()"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p>tag :</p>
       <p> mignon <input type="checkbox"/></p>
