@@ -2,13 +2,19 @@
 function controle(){
 var saisie =document.getElementById("input").value;
 if (saisie == "anime"){
-  document.location.href="https://pixees.fr/informatiquelycee/n_site/nsi_prem_html_css.html";
+  document.location.href="https://nsi-team.github.io/Anime/";
   }
-if (saisie == "jeux"){
-    document.location.href="https://www.w3schools.com/tags/ev_onsearch.asp";
+if (saisie == "jeux vidéos"){
+    document.location.href="https://nsi-team.github.io/Jeux_Videos/";
   }
+if(saisie == "pixel art"){
+  document.location.href="https://nsi-team.github.io/Pixel_Art/";
+}
 if(saisie == "marrant"){
-  document.location.href="http://memo-web.fr/categorie-javascript-120/";
+  document.location.href="https://nsi-team.github.io/Marrant/";
+}
+if(saisie == "chat"){
+  document.location.href="https://nsi-team.github.io/Chat/";
 }
 
 }
