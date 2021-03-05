@@ -40,6 +40,6 @@
     <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
     </body>
       <script src="script.js"></script>
+<script src="script.js"></script>
 </html>
 <p></p>
-<script src="script.js"></script>
