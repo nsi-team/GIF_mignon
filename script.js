@@ -1,7 +1,7 @@
 
 function controle(){
 var saisie =document.getElementById("input").value;
-if (saisie == "anime" || "Anime" || "animé" || "Animé"){
+if (saisie == "anime" || "animé"){
   document.location.href="https://nsi-team.github.io/Anime/";
   }
 if (saisie == "jeux vidéos"){
