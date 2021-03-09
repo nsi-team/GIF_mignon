@@ -1,7 +1,5 @@
 <html lang="fr">
     <head>
-        <meta charset="utf-8">
-        <title>GifMignon</title>
         <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/Q2D9u56htOLsjgfmTIJwf08XOEiWgJQFlIX_GDMdcSjyRyQZ5FE-_Fof28cB5W7CRaMC-6U9SBHHzATge_Nh6Oi51GB5wdhLSTG7tGvxQHZd9m_tI-w">
     </head>
 
