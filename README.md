@@ -18,7 +18,7 @@
 <p></p>
       
 <a href="https://nsi-team.github.io/Pixel_Art/">
-<img src="https://img.cloudygif.com/full/f254e23e6c781897.gif" alt="perdu.cm" title="Perdu?" /> 
+<img src="https://img.cloudygif.com/full/f254e23e6c781897.gif" alt="perdu.cm" title="pixel art" style="width: 250px;" /> 
 </a>
 
 <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
