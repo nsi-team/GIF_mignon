@@ -25,7 +25,7 @@
 <img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 250px;" />
 <a href="https://nsi-team.github.io/Jeux_Videos/">Jeux videos</a>
 
-<img class="project-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjWRQ5XYvEtwrLggzYBbzdHnc6tXiQsbblg&usqp=CAU" style="width: 250px;" />
+<img class="project-pic" src="https://media.giphy.com/media/OtdBjyOuwJDoY/giphy.gif" style="width: 250px;" />
 <a href="https://nsi-team.github.io/Marrant/">Marrant</a>
 
 <img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 250px;" />
