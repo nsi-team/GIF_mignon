@@ -17,12 +17,9 @@
       <p> irl <input type="checkbox"/></p>
 <p></p>
       
-<a href="https://nsi-team.github.io/Pixel_Art/">
+<a href="https://nsi-team.github.io/Pixel_Art/">pixel art<>
 <img src="https://img.cloudygif.com/full/f254e23e6c781897.gif" alt="perdu.cm" title="pixel art" style="width: 250px;" /> 
 </a>
-
-<img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
-<a href="https://nsi-team.github.io/Pixel_Art/">pixel art</a>
 
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
 <a href="https://nsi-team.github.io/Anime/">anime</a>
