@@ -1,8 +1,7 @@
 <html lang="fr">
-    <head>
-        <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/Q2D9u56htOLsjgfmTIJwf08XOEiWgJQFlIX_GDMdcSjyRyQZ5FE-_Fof28cB5W7CRaMC-6U9SBHHzATge_Nh6Oi51GB5wdhLSTG7tGvxQHZd9m_tI-w">
+    <head> 
+    <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/p2Py6H9WxxxjuUxtelVodHTs1c8b_lOJ1pIQTIq07s4lLAzo-icJBoFF_-yLO6e4_p5UbG4k4KHaaU0I1VbId5CsayqisW6ftjvaI42sMk0EYi5p4SQ">
     </head>
-
   <body>
     <h1>Bienvenue sur GIF Mignon !</h1>
     <p><strong>Ici, vous pouvez REGARDER plein de GIF en tout genre.</strong></p>
