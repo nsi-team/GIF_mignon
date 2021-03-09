@@ -14,7 +14,9 @@
       <p> mignon <input type="checkbox"/></p>
       <p> jeux-videos <input type="checkbox"/></p>
       <p> animes <input type="checkbox"/></p>
-      <p> irl <input type="checkbox"/></p>
+      <p> Chat <input type="checkbox"/></p>
+      <p> pixel art <input type="checkbox"/></p>
+      <p> Marrant <input type="checkbox"/></p>
 <p></p>
       
 <a href="https://nsi-team.github.io/Pixel_Art/">
