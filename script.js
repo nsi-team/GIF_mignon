@@ -1,10 +1,10 @@
 
 function controle(){
 var saisie =document.getElementById("input").value;
-if (saisie == "anime"){
+if (saisie == "Drawing on paper"){
   document.location.href="https://nsi-team.github.io/Anime/";
   }
-if (saisie == "jeux vidéos"){
+if (saisie == "Digital drawing"){
     document.location.href="https://nsi-team.github.io/Jeux_Videos/";
   }
 if(saisie == "pixel art"){
